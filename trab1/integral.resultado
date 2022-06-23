@@ -1,0 +1,49 @@
+Tempo de calculo: 0.038173
+./integral 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.125845
+./integral 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.123759
+./integral 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.118731
+./integral 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.122337
+./integral 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.065984
+./integral 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.063471
+./integral 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.068082
+./integral 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.065570
+./integral 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.037170
+./integral 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.037048
+./integral 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.037532
+./integral 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.036611
+./integral 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.277116
+./integral 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.272305
+./integral 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.274329
+./integral 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.275240
+./integral 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.145547
+./integral 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.143821
+./integral 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.143302
+./integral 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.145841
+./integral 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.075530
+./integral 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.073960
+./integral 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.073209
+./integral 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.075590

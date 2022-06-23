@@ -1,0 +1,48 @@
+./novo.out 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.109992
+./novo.out 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.115142
+./novo.out 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.113234
+./novo.out 10 2500 4000000 1 <<< c
+Tempo de calculo: 0.112226
+./novo.out 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.062362
+./novo.out 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.060668
+./novo.out 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.061188
+./novo.out 10 2500 4000000 2 <<< c
+Tempo de calculo: 0.060197
+./novo.out 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.034497
+./novo.out 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.033956
+./novo.out 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.034103
+./novo.out 10 2500 4000000 4 <<< c
+Tempo de calculo: 0.036189
+./novo.out 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.251585
+./novo.out 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.250678
+./novo.out 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.250565
+./novo.out 20.24 70.45 5000000 1 <<< d
+Tempo de calculo: 0.250137
+./novo.out 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.131183
+./novo.out 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.130777
+./novo.out 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.136343
+./novo.out 20.24 70.45 5000000 2 <<< d
+Tempo de calculo: 0.130117
+./novo.out 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.072834
+./novo.out 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.070330
+./novo.out 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.067495
+./novo.out 20.24 70.45 5000000 4 <<< d
+Tempo de calculo: 0.067687
